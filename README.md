@@ -26,6 +26,8 @@ To run the project, execute the main script:
 python main.py
 
 The data in the database is saved as follows:
+
+
 ![image](https://github.com/codriot/py_final_project-main/assets/146637002/7416bc48-5ef1-4050-ad2e-fb3ed8d8d84b)
 
 
@@ -33,9 +35,10 @@ The data in the database is saved as follows:
 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-### Hint
+>### Hint
 >To find the highest reviewed product, you need to press and enter 1 when prompted for category and brand, and select the one based on the number of reviews as the sort type and press 1, to find the product with both the most reviews and the highest star rate, you need to select the smart sort and enter 1 again. 
 
 
 License
+
 [MIT](https://choosealicense.com/licenses/mit/)
